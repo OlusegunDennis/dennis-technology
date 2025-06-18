@@ -41,7 +41,7 @@ export const projects = [
     title: "Articipay",
     description:
       "A research-based platform that connects researchers with paid participants for data collection and study contributions. I worked as a QA Engineer, testing user flows, payment logic, and participant onboarding to ensure a seamless and bug-free experience for both researchers and contributors.",
-    tech: "Cypress · Postman · Manual & Automated QA",
+    tech: "Cypress · Postman · Selenium · Manual & Automated QA",
     link: "https://articipay.com",
     image: "/assets/projects/articipay_logo.jpeg",
   },

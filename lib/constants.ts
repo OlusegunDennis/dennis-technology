@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Dennis Technology",
-  url: "https://dennistechnology.com",
+  url: "https://dennistechnology.netlify.app",
   description: "Smart solutions for a digital first world.",
   ogImage: "/assets/og-image.jpg",
   links: {

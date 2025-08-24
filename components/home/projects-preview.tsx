@@ -46,6 +46,15 @@ export function ProjectsPreview() {
     link: "https://dennisrentalnaija.netlify.app/real-estate",
     image: "/assets/projects/logo3.jpeg",
   },
+  {
+  id: 5,
+  title: "Dennis SUV Rental",
+  description:
+    "A premium car rental platform providing customers with seamless booking, flexible rental options, and reliable vehicles. I worked on ensuring smooth booking flows, integrating responsive design, and testing for performance and customer usability. The platform enhances client trust by delivering professional and efficient rental experiences.",
+  tech: "Next.js · Tailwind CSS · Node.js · WhatsApp Integration · Manual QA",
+  link: "https://www.dennisuvrental.com",
+  image: "/assets/projects/logo4.jpeg", // make sure to add this image in your assets/projects folder
+},
     // You can add more projects here
   ];
 
